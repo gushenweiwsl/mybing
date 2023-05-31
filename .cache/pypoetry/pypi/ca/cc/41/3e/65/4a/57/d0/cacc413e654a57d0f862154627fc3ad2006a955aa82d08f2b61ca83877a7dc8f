@@ -1,0 +1,1 @@
+9999999999{"name": "Flask-SocketIO", "version": "5.3.3", "summary": "Socket.IO integration for Flask applications", "platform": null, "requires_dist": ["Flask (>=0.9)", "python-socketio (>=5.0.2)"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}

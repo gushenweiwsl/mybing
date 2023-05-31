@@ -1,0 +1,1 @@
+9999999999{"name": "PyQRCode", "version": "1.2.1", "summary": "A QR code generator written purely in Python with SVG, EPS, PNG and terminal output.", "platform": "UNKNOWN", "requires_dist": ["pypng>=0.0.13 ; extra == \"PNG\""], "requires_python": null, "files": [], "_cache_version": "1.0.0"}

@@ -1,0 +1,1 @@
+9999999999{"name": "WeRoBot", "version": "1.13.1", "summary": "WeRoBot: writing WeChat Offical Account Robots with fun", "platform": "", "requires_dist": ["bottle", "requests", "xmltodict", "cryptography ; extra == 'crypto'"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

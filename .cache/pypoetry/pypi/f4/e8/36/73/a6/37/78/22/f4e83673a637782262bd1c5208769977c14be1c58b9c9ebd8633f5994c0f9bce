@@ -1,0 +1,1 @@
+9999999999{"name": "python-engineio", "version": "4.4.0", "summary": "Engine.IO server and client for Python", "platform": null, "requires_dist": ["aiohttp (>=3.4) ; extra == 'asyncio_client'", "requests (>=2.21.0) ; extra == 'client'", "websocket-client (>=0.54.0) ; extra == 'client'"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}
