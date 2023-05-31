@@ -1,0 +1,1 @@
+9999999999{"name": "itchat", "version": "1.3.10", "summary": "A complete wechat personal account api", "platform": "", "requires_dist": ["requests", "pyqrcode", "pypng"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

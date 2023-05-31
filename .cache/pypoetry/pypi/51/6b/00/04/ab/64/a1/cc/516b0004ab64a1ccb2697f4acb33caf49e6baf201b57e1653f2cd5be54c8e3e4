@@ -1,0 +1,1 @@
+9999999999{"name": "xmltodict", "version": "0.13.0", "summary": "Makes working with XML feel like you are working with JSON", "platform": "all", "requires_dist": null, "requires_python": ">=3.4", "files": [], "_cache_version": "1.0.0"}
