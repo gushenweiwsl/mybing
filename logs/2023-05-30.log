@@ -1,0 +1,17 @@
+[2023-05-30 16:01:38] [WARNING]: 警告: 配置文件内的QQ号 (2515104595) 与缓存内的QQ号 (4022320499) 不相同 
+[2023-05-30 16:01:38] [WARNING]: 1. 使用会话缓存继续. 
+[2023-05-30 16:01:38] [WARNING]: 2. 删除会话缓存并重启. 
+[2023-05-30 16:01:38] [WARNING]: 请选择: 
+[2023-05-30 16:06:33] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2023-05-30 16:06:33] [WARNING]: 请选择提交滑块ticket方式: 
+[2023-05-30 16:06:33] [WARNING]: 1. 自动提交 
+[2023-05-30 16:06:33] [WARNING]: 2. 手动抓取提交 
+[2023-05-30 16:06:33] [WARNING]: 请输入(1 - 2)： 
+[2023-05-30 16:07:18] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=2o3Uhy1r&style=simple&aid=16&uin=2515104595&sid=656333616547503881&cap_cd=xmKm-l5C6YVsPBiOVzhsGbPzSVhKQ0wMhkXi013X_elDsHE2PNj-hw**&clientype=1&apptype=2  
+[2023-05-30 16:07:39] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2023-05-30 16:07:39] [WARNING]: 1. 向手机 159*******8 发送短信验证码 
+[2023-05-30 16:07:39] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2023-05-30 16:07:39] [WARNING]: 请输入(1 - 2)： 
+[2023-05-30 16:08:02] [WARNING]: 账号已开启设备锁，请前往 -> https://accounts.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=double-check&uin=2515104595&sig=zGm%2Bk%2FE5q4Of4fScFcUjs6DE0uBn8qcrBXlkeG1KlJg%2B%2FS6uqSiqcmxYJ%2BRn4M%2BBnXt%2FC%2Bj4DULJbjKapUmvaTKuOl9vegP1ByVFUYnnI50%3D <- 验证后重启Bot. 
+[2023-05-30 16:09:52] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-30 16:09:57] [WARNING]: lambda 初始化失败: Post "http:///runtime/init/ready": http: no Host in request URL 
